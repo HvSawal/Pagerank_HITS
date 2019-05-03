@@ -1,0 +1,17 @@
+// Harshvardhan Sawal CS610 3198 prp
+
+HANDOUT 2 ADHERED;
+pgrk_3198 has no bugs;
+hits_3198 has no bugs.
+
+Compile both the files first by using>>> javac *.java
+
+/*==================*/
+#Usage
+java pgrk_3198 iterations initial_value filename
+java hits_3198 iterations initial_value filename
+
+/*==================*/
+#Assumption
+1. Input file is readable and is a text file
+2. Same directed edge pairs is not entered as input more than once 
